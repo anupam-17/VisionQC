@@ -31,3 +31,5 @@ htmlcov/
 node_modules/
 dist/
 build/
+*.ckpt
+notebooks/results/Patchcore/**/weights/
