@@ -33,3 +33,4 @@ dist/
 build/
 *.ckpt
 notebooks/results/Patchcore/**/weights/
+notebooks/results/Patchcore/VisionQC_Bottle/v3/weights/
